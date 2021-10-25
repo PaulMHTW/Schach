@@ -48,7 +48,13 @@ public class bum {
                                 "║    TTTTT    ║    |o|o|    ║    /___\\    ║    )_Q_(    ║  //KI.NG\\\\  ║             ║            ║             ║\n" +
                                 "╠═════════════╬═════════════╬═════════════╬═════════════╬═════════════╬═════════════╬════════════╬═════════════╣\n");
 
+        int newPosX = 1;
+        int newPosY = 3;
+        String move = String.valueOf(newPosX + newPosY);
+        System.out.println(move);
     }
+
+
 }
 
 //        -=H=- BISHOP
